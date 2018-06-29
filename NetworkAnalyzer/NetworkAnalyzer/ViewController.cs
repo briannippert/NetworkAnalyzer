@@ -9,6 +9,7 @@ namespace NetworkAnalyzer
     {
         public ViewController(IntPtr handle) : base(handle)
         {
+            
         }
 
         public override void ViewDidLoad()
